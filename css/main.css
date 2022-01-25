@@ -783,7 +783,7 @@ letter-spacing: -2px;
   .service-content {
     padding-top: 5vh;
     text-align: center;
-    background-size: 100% auto;
+    background-size: 200% auto;
     background-position:center ;
     background-attachment: scroll;
   }
@@ -817,7 +817,7 @@ letter-spacing: -2px;
   }
 
   .tabs-content{
-    background-size: 100% auto;
+    background-size: 200% auto;
     background-position:center ;
     background-attachment: scroll;
   }
